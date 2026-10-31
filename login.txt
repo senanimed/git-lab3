@@ -1,3 +1,5 @@
 Login feature
 Username field
 Password field
+Validation rule: username must not be empty
+Validation rule: password must not be empty
